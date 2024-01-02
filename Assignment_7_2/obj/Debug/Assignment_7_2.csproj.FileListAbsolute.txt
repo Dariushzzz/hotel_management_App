@@ -1,0 +1,10 @@
+F:\windows-ohjelmointi\Assignment_7_2\Assignment_7_2\bin\Debug\Assignment_7_2.exe.config
+F:\windows-ohjelmointi\Assignment_7_2\Assignment_7_2\bin\Debug\Assignment_7_2.exe
+F:\windows-ohjelmointi\Assignment_7_2\Assignment_7_2\bin\Debug\Assignment_7_2.pdb
+F:\windows-ohjelmointi\Assignment_7_2\Assignment_7_2\bin\Debug\Newtonsoft.Json.dll
+F:\windows-ohjelmointi\Assignment_7_2\Assignment_7_2\bin\Debug\Newtonsoft.Json.xml
+F:\windows-ohjelmointi\Assignment_7_2\Assignment_7_2\obj\Debug\Assignment_7_2.csproj.AssemblyReference.cache
+F:\windows-ohjelmointi\Assignment_7_2\Assignment_7_2\obj\Debug\Assignment_7_2.csproj.CoreCompileInputs.cache
+F:\windows-ohjelmointi\Assignment_7_2\Assignment_7_2\obj\Debug\Assignment_7_2.csproj.CopyComplete
+F:\windows-ohjelmointi\Assignment_7_2\Assignment_7_2\obj\Debug\Assignment_7_2.exe
+F:\windows-ohjelmointi\Assignment_7_2\Assignment_7_2\obj\Debug\Assignment_7_2.pdb
